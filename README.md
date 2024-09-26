@@ -1,4 +1,12 @@
-## Hi there 👋
+## Cordial greeting ! 👋
+
+Nice to meet you ☺️, my name is **Saray Alieth Mendivelso Gonzalez.** 
+
+
+I am a student in the eighth semester of the systems engineering degree 💻 at the 'Escuela Colombiana de Ingenieria Julio Garavito' University.🏫
+
+
+
 
 <!--
 **saraygonm/Saraygonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
