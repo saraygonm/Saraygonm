@@ -1,4 +1,5 @@
 Hi there! 👋 I'm Saray Alieth Mendivelso González
+
 Systems Engineer | Software Development | Data Analysis | Automation & Artificial Intelligence
 
 Welcome to my GitHub profile! 💻
@@ -10,15 +11,10 @@ I enjoy solving problems, building software solutions, and exploring how technol
 🚀 About Me
 
 🎓 Systems Engineering graduate from Escuela Colombiana de Ingeniería Julio Garavito.
-
 💻 Interested in software development, data analysis, process automation, and artificial intelligence.
-
 🧠 Experienced in academic and collaborative projects involving software architecture, object-oriented programming, databases, and machine learning.
-
 🔍 Interested in transforming ideas and data into practical, scalable, and efficient solutions.
-
 🤝 Enjoy working in teams, sharing knowledge, and learning from different perspectives.
-
 🌱 Always exploring new technologies and opportunities to grow as an engineer.
 
 <!--
